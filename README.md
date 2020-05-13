@@ -1,2 +1,13 @@
 # script.module.urlresolver
-URLResolver Development for the Kodi Media Center - Kodi is a registered trademark of the XBMC Foundation. We are not connected to or in any other way affiliated with Kodi - DMCA: legal@tvaddons.co
+[B]Version 5.0.66 (May 12, 2020)[/B]
+- Code Base Changes:
+    - user agents
+- Resolvers Added:
+    - easyload
+- Resolvers Fixed/Updated:
+    - doodstream
+    - hxload
+- Resolvers Removed
+    - none
+- Languages Added/Updated
+    - none
